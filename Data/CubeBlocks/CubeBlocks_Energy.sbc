@@ -11,7 +11,7 @@
             <Description>{LOC:Description_PetrolEngine}
 Max Output: 800KWh
             </Description>
-            <Icon>Textures\GUI\Icons\Cubes\PetrolEngineSmall.dds</Icon>
+            <Icon>..\2841960221\Textures\GUI\Icons\Cubes\PetrolEngineSmall.dds</Icon>
             <CubeSize>Small</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -99,7 +99,7 @@ Max Output: 800KWh
             <Description>{LOC:Description_PetrolEngine}
 Max Output: 8MWh
             </Description>
-            <Icon>Textures\GUI\Icons\Cubes\PetrolEngineLarge.dds</Icon>
+            <Icon>..\2841960221\Textures\GUI\Icons\Cubes\PetrolEngineLarge.dds</Icon>
             <CubeSize>Large</CubeSize>
             <GuiVisible>false</GuiVisible>
             <BlockTopology>TriangleMesh</BlockTopology>
@@ -196,7 +196,7 @@ Max Output: 8MWh
                 <SubtypeId>LargeBlockLiFePo4Battery</SubtypeId>
             </Id>
             <DisplayName>{LOC:DisplayName_LiBattery}</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LargeLifePo4Battery.dds</Icon>
+            <Icon>..\2841960221\Textures\GUI\Icons\Cubes\LargeLifePo4Battery.dds</Icon>
             <Description>{LOC:Description_LiFeBattery}
 
 Max In/Out: 3MWh
@@ -260,7 +260,7 @@ Stored Power: 1.7MWh</Description>
                 <SubtypeId>SmallBlockLiFePo4Battery</SubtypeId>
             </Id>
             <DisplayName>{LOC:DisplayName_LiBattery}</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LiFePo4Battery.dds</Icon>
+            <Icon>..\2841960221\Textures\GUI\Icons\Cubes\LiFePo4Battery.dds</Icon>
             <Description>{LOC:Description_LiFeBattery}
 
 Max In/Out: 1.5MWh
@@ -322,7 +322,7 @@ Stored Power: 0.85MWh</Description>
                 <SubtypeId>SmallBlockSmallLiFePo4Battery</SubtypeId>
             </Id>
             <DisplayName>{LOC:DisplayName_LiBattery}</DisplayName>
-            <Icon>Textures/GUI/Icons/Cubes/LiFePo4Battery1x1.dds</Icon>
+            <Icon>..\2841960221\Textures/GUI/Icons/Cubes/LiFePo4Battery1x1.dds</Icon>
             <Description>{LOC:Description_LiFeBattery}
 
 Max In/Out: 375kW
@@ -384,7 +384,7 @@ Stored Power: 212.5kWh</Description>
                 <SubtypeId>LargeBlockLiSBattery</SubtypeId>
             </Id>
             <DisplayName>{LOC:DisplayName_LiSBattery}</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LargeLiSBattery.dds</Icon>
+            <Icon>..\2841960221\Textures\GUI\Icons\Cubes\LargeLiSBattery.dds</Icon>
             <Description>{LOC:Description_LiSBattery}
 
 Max In/Out: 4MWh
@@ -448,7 +448,7 @@ Stored Power: 2.6MWh</Description>
                 <SubtypeId>SmallBlockLiSBattery</SubtypeId>
             </Id>
             <DisplayName>{LOC:DisplayName_LiSBattery}</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LiSBattery.dds</Icon>
+            <Icon>..\2841960221\Textures\GUI\Icons\Cubes\LiSBattery.dds</Icon>
             <Description>{LOC:Description_LiSBattery}
 
 Max In/Out: 2MWh
@@ -510,7 +510,7 @@ Stored Power: 1.3MWh</Description>
                 <SubtypeId>SmallBlockSmallLiSBattery</SubtypeId>
             </Id>
             <DisplayName>{LOC:DisplayName_LiSBattery}</DisplayName>
-            <Icon>Textures/GUI/Icons/Cubes/LiSBattery1x1.dds</Icon>
+            <Icon>..\2841960221\Textures\GUI\Icons\Cubes\LiSBattery1x1.dds</Icon>
             <Description>{LOC:Description_LiSBattery}
 
 Max In/Out: 500kW

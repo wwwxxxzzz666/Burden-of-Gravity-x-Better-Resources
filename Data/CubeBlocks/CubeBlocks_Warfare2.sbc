@@ -9,7 +9,7 @@
                 <SubtypeId>LargeBlockLiFePo4BatteryBlockWarfare2</SubtypeId>
             </Id>
             <DisplayName>{LOC:DisplayName_WarLiBattery}</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LiFePo4BatteryReskin.dds</Icon>
+            <Icon>..\2841960221\Textures\GUI\Icons\Cubes\LiFePo4BatteryReskin.dds</Icon>
             <Description>{LOC:Description_LiFeBattery}
 
 Max In/Out: 3MWh
@@ -71,7 +71,7 @@ Stored Power: 1.7MWh</Description>
                 <SubtypeId>SmallBlockLiFePo4BatteryBlockWarfare2</SubtypeId>
             </Id>
             <DisplayName>{LOC:DisplayName_WarLiBattery}</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LiFePo4BatteryReskin_Small.dds</Icon>
+            <Icon>..\2841960221\Textures\GUI\Icons\Cubes\LiFePo4BatteryReskin_Small.dds</Icon>
             <Description>{LOC:Description_LiFeBattery}
 
 Max In/Out: 1.5MWh
@@ -138,7 +138,7 @@ Stored Power: 0.85MWh</Description>
                 <SubtypeId>LargeBlockLiSBatteryBlockWarfare2</SubtypeId>
             </Id>
             <DisplayName>{LOC:DisplayName_WarLiSBattery}</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LiSBatteryReskin.dds</Icon>
+            <Icon>..\2841960221\Textures\GUI\Icons\Cubes\LiSBatteryReskin.dds</Icon>
             <Description>{LOC:Description_LiSBattery}
 
 Max In/Out: 4MWh
@@ -200,7 +200,7 @@ Stored Power: 2.6MWh</Description>
                 <SubtypeId>SmallBlockLiSBatteryBlockWarfare2</SubtypeId>
             </Id>
             <DisplayName>{LOC:DisplayName_WarLiSBattery}</DisplayName>
-            <Icon>Textures\GUI\Icons\Cubes\LiSBatteryReskin_Small.dds</Icon>
+            <Icon>..\2841960221\Textures\GUI\Icons\Cubes\LiSBatteryReskin_Small.dds</Icon>
             <Description>{LOC:Description_LiSBattery}
 
 Max In/Out: 2MWh
